@@ -1,0 +1,9 @@
+PySide6
+opencv-python
+pymupdf
+pandas
+numpy
+sqlite-utils
+openpyxl
+pillow
+scikit-image
